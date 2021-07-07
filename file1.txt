@@ -1,1 +1,3 @@
 ECHO is on.
+line 1
+line2
